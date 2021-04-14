@@ -12,6 +12,6 @@ setup(
     ],
     entry_points='''
         [console_scripts]
-        bidicli=bidicli:cli
+        bidicli=bidicli:main
     ''',
 )
